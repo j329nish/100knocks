@@ -1,6 +1,7 @@
-# 第4章まで終了済み
-- 第6章は、scikit-learnを使う
-- 第7章は、Gensimを使う
-- 第8章は、PyTorchを使う
-- 第9章（89）は、Transformersを使う
-- 第10章は、Fairseq・Sockeye・JoeyNMTなどのPyTorchベースのツールを使う
+# 第4章まで
+
+自然言語処理100本ノック 2020
+
+# 第5章から
+
+自然言語処理100本ノック 2025 [[URL](https://nlp100.github.io/2025/ja/ch05.html)]
