@@ -38,6 +38,15 @@
   dataset = Dataset.from_pandas(df)
   ```
 - matplotlibは覚えておいた方が良い。日本語を使いたいならjapanize_matplotlibがある。
+- 機械学習でepochごとに処理をするとき、tqdmで進捗状況が分かる。
+  ```python
+  from tqdm import tqdm
+  for i in tqdm(range(10)):
+    continue
+  ```
+  ```bash
+  100%|██████████| 10/10 [00:00<00:00, 30437.62it/s]
+  ```
 
 
 (最終更新 2025/4/25)
