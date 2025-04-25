@@ -47,7 +47,6 @@
   from datasets import Dataset
   dataset = Dataset.from_pandas(df)
   ```
-- matplotlibは覚えておいた方が良い。日本語を使いたいならjapanize_matplotlibがある。
 - 機械学習でepochごとに処理をするとき、tqdmで進捗状況が分かる。
   ```python
   from tqdm import tqdm
@@ -57,6 +56,8 @@
   ```bash
   100%|██████████| 10/10 [00:00<00:00, 30437.62it/s]
   ```
+- torch, numpy, scikit-learn, transformersのライブラリの使い方を熟知していれば後半は簡単そう。
+- matplotlibは覚えておいた方が良い。日本語を使いたいならjapanize_matplotlibがある。
 
 
 (最終更新 2025/4/25)
