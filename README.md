@@ -1,17 +1,17 @@
 # 言語処理100本ノック
 
-| 章番号 | 内容                                | Link |
-|--------|-------------------------------------|--------|
-| 第1章  | 準備運動                            | [Link](https://github.com/j329nish/100knocks/blob/main/chapter1.ipynb) |
-| 第2章  | UNIXコマンド                        | [Link](https://github.com/j329nish/100knocks/blob/main/chapter2.ipynb) |
-| 第3章  | 正規表現                            | [Link](https://github.com/j329nish/100knocks/blob/main/chapter3.ipynb) |
-| 第4章  | 形態素解析                          | [Link](https://github.com/j329nish/100knocks/blob/main/chapter4.ipynb) |
-| 第5章  | 大規模言語モデル                    | [Link](https://github.com/j329nish/100knocks/blob/main/chapter5.ipynb) |
-| 第6章  | 単語ベクトル                        | [Link](https://github.com/j329nish/100knocks/blob/main/chapter6.ipynb) |
-| 第7章  | 機械学習                            | [Link](https://github.com/j329nish/100knocks/blob/main/chapter7.ipynb) |
-| 第8章  | ニューラルネット                    | [Link](https://github.com/j329nish/100knocks/blob/main/chapter8.ipynb) |
-| 第9章  | 事前学習済み言語モデル（BERT型）    | [Link](https://github.com/j329nish/100knocks/blob/main/chapter9.ipynb) |
-| 第10章 | 事前学習済み言語モデル（GPT型）     | [Link](https://github.com/j329nish/100knocks/blob/main/chapter10.ipynb) |
+| 章番号 | 内容                                | Colab | Link |
+|--------|-------------------------------------|--------|--------|
+| 第1章  | 準備運動                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j329nish/100knocks/blob/main/chapter1.ipynb)| [Link](https://github.com/j329nish/100knocks/blob/main/chapter1.ipynb) |
+| 第2章  | UNIXコマンド                        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j329nish/100knocks/blob/main/chapter2.ipynb)| [Link](https://github.com/j329nish/100knocks/blob/main/chapter1.ipynb) | [Link](https://github.com/j329nish/100knocks/blob/main/chapter2.ipynb) |
+| 第3章  | 正規表現                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j329nish/100knocks/blob/main/chapter3.ipynb)| [Link](https://github.com/j329nish/100knocks/blob/main/chapter1.ipynb) | [Link](https://github.com/j329nish/100knocks/blob/main/chapter3.ipynb) |
+| 第4章  | 形態素解析                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j329nish/100knocks/blob/main/chapter4.ipynb)| [Link](https://github.com/j329nish/100knocks/blob/main/chapter1.ipynb) | [Link](https://github.com/j329nish/100knocks/blob/main/chapter4.ipynb) |
+| 第5章  | 大規模言語モデル                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j329nish/100knocks/blob/main/chapter5.ipynb)| [Link](https://github.com/j329nish/100knocks/blob/main/chapter1.ipynb) | [Link](https://github.com/j329nish/100knocks/blob/main/chapter5.ipynb) |
+| 第6章  | 単語ベクトル                        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j329nish/100knocks/blob/main/chapter6.ipynb)| [Link](https://github.com/j329nish/100knocks/blob/main/chapter1.ipynb) | [Link](https://github.com/j329nish/100knocks/blob/main/chapter6.ipynb) |
+| 第7章  | 機械学習                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j329nish/100knocks/blob/main/chapter7.ipynb)| [Link](https://github.com/j329nish/100knocks/blob/main/chapter1.ipynb) | [Link](https://github.com/j329nish/100knocks/blob/main/chapter7.ipynb) |
+| 第8章  | ニューラルネット                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j329nish/100knocks/blob/main/chapter8.ipynb)| [Link](https://github.com/j329nish/100knocks/blob/main/chapter1.ipynb) | [Link](https://github.com/j329nish/100knocks/blob/main/chapter8.ipynb) |
+| 第9章  | 事前学習済み言語モデル（BERT型）    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j329nish/100knocks/blob/main/chapter9.ipynb)| [Link](https://github.com/j329nish/100knocks/blob/main/chapter1.ipynb) | [Link](https://github.com/j329nish/100knocks/blob/main/chapter9.ipynb) |
+| 第10章 | 事前学習済み言語モデル（GPT型）     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j329nish/100knocks/blob/main/chapter10.ipynb)| [Link](https://github.com/j329nish/100knocks/blob/main/chapter1.ipynb) | [Link](https://github.com/j329nish/100knocks/blob/main/chapter10.ipynb) |
 
 (第4章まで)自然言語処理100本ノック 2020 [[URL](https://nlp100.github.io/2020/ja/)]<br>
 (第5章から)自然言語処理100本ノック 2025 [[URL](https://nlp100.github.io/2025/ja/)]<br>
@@ -61,4 +61,4 @@
 - matplotlibは覚えておいた方が良い。日本語を使いたいならjapanize_matplotlibがある。
 
 
-(最終更新 2025/4/25)
+(最終更新 2025/4/27)
