@@ -47,6 +47,7 @@
   from datasets import Dataset
   dataset = Dataset.from_pandas(df)
   ```
+- 一行ずつ処理することが多いため、辞書型リストdict[list]よりもリスト型の辞書list[dict]の方が使いやすい。
 - 機械学習でepochごとに処理をするとき、tqdmで進捗状況が分かる。
   ```python
   from tqdm import tqdm
