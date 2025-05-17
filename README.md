@@ -1,5 +1,9 @@
 # 言語処理100本ノック
 
+## 1. 概要
+「言語処理100本ノック」[[URL](https://nlp100.github.io/2025/ja/)]を私自身が説いたものになります。
+
+## 2. 目次
 | 章番号 | 内容                                | Colab | Link |
 |--------|-------------------------------------|--------|--------|
 | 第1章  | 準備運動                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j329nish/100knocks/blob/main/chapter1.ipynb)| [Link](https://github.com/j329nish/100knocks/blob/main/chapter1.ipynb) |
@@ -16,9 +20,7 @@
 (第4章まで)自然言語処理100本ノック 2020 [[URL](https://nlp100.github.io/2020/ja/)]<br>
 (第5章から)自然言語処理100本ノック 2025 [[URL](https://nlp100.github.io/2025/ja/)]<br>
 
-## 第9章96まで終了済み
-
-## 備忘録
+## 3. 備忘録
 
 - 出力を綺麗にしたいならpprintが良き。
   ```python
@@ -60,5 +62,6 @@
 - torch, numpy, scikit-learn, transformersのライブラリの使い方を熟知していれば後半は簡単そう。
 - matplotlibは覚えておいた方が良い。日本語を使いたいならjapanize_matplotlibがある。
 
+## 第9章96まで終了済み
 
-(最終更新 2025/5/1)
+(最終更新 2025/5/17)
