@@ -62,6 +62,4 @@
 - torch, numpy, scikit-learn, transformersのライブラリの使い方を熟知していれば後半は簡単そう。
 - matplotlibは覚えておいた方が良い。日本語を使いたいならjapanize_matplotlibがある。
 
-## 第9章96まで終了済み
-
-(最終更新 2025/5/17)
+(最終更新 2025/5/18)
